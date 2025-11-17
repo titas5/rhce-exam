@@ -6,3 +6,4 @@ myusers:
   - name: "jane_smith"
     job: "manager"
     password_expire_days: 30
+    uid: 1103
